@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed5307a1-2bc5-412b-ad82-930dfb82bf37" name="Changes" comment="op">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Core_JAVA_Complete.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Comparable_reverse_order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DATA_And_Structures/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ENummap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortINg1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/CloneArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/PRograms1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/Programs2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/copyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Arrays/jaggedarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Arraylist2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Arraylist3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Arraylist5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/ArraylistSerialixation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/HashSet/LinkedJHAshSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/LinkedList/LinkedList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/LinkedList/ReverserLinked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/List/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/List/ListToArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/List/bhavy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/ListIterator1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/MapInterface/Comparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/MapInterface/HashMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/MapInterface/HashTable/HashTable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/MapInterface/LinkedHashMap/LinkedHahMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/MapInterface/mapinterfaacenew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Queue/PriorityQuese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Set/Hashset/Hashset1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Set/Hashset/Hashset2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/Set/Sets1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/TreeSet/TreesetDescendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/TreeSet/TreesetSubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Collections/TreeSet/highestAndLowest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Constructors/Constructor_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Constructors/basicConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Enum/SWitch_Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/Annonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/NestadInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InnerClass/NestedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LambdaExpresssions/MultipleParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LambdaExpresssions/WithForeachLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LambdaExpresssions/WithoutLambdaExpressions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/DaemonThrea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/JavaThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/JavaThreadPoool/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/JavaThreadPoool/ThreadPool2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/JavaThreadPoool/WorkerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Multithread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/PriorityThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Runtime1/Exec1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Runtime1/Shutdown1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Runtime1/availableProcessor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/ActiveCountEample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/ActiveCouuntExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/AnnounymousShutdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/GarbageCollecctor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/ShutdownHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/TgreadGroupDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/ThreadDestroyedGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadGroup/ThreadEnumerate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadJoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadJoin2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/ThreadSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Threadrun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/Threadsleep2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/multithread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Multithreeading/muti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Programs/PrimeNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Programs/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Programs/fibonnaci_series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Programs/palindromes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Programs/printallPrimeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/CharacterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/Examppple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/Metacharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/MobileNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/Quantifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Regex/RegexSpacecharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/StaticKeywords/CounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/StaticKeywords/static_KEywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/StaticKeywords/statickCollege.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/ConCatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/ImmutableString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/SplitMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringBuffer/StringBuffer_VS_StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringBuffer/StringVSStringBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringBuffer/appendMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringBuffer/capacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringMethods/StringCOncat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringMethods/StringIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringMethods/charT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringMethods/getBytes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringMethods/trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringTokenizer/CountTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringTokenizer/StringTokenizer__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/StringTokenizer/nextToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/String/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/Annonymous1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/IntrThreaCommunication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/Static_Synchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/SunchronizedBlockAnnonymous.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/TestInterrupted3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/TestInterruptedThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/TestInterruptingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/WithSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Synchroniztion/WithoutSynchronization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ThisKeywords/Thsi_keywords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/BufferedInputSream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/BufferedOutputStrewam1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/Deserialization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/FileInputTream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/FileoUtputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/SequenceInputStream1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/Serialization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/inputoutput/Student1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Abstract/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Abstract/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Encapuslation/Encapusltaion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/Polymorphism/Covarant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/inheritance/Has_A/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/inheritance/Has_A/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/inheritance/Programmers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/oops/inheritance/multilevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumset1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FrEhZh4wkBq7N7mClg17wm061r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.inputoutput" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed5307a1-2bc5-412b-ad82-930dfb82bf37" name="Changes" comment="" />
+      <created>1665241923875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665241923875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="op" />
+    <option name="LAST_COMMIT_MESSAGE" value="op" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.RuntimeException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
